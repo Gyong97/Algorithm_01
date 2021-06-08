@@ -16,3 +16,11 @@
 ![second_training](https://user-images.githubusercontent.com/80032845/121222676-b8d2d400-c8c1-11eb-8e8a-8888eb4df44f.JPG)
 - third Training
 ![third_training](https://user-images.githubusercontent.com/80032845/121222679-b8d2d400-c8c1-11eb-93ce-5d65f0caf8da.JPG)
+
+3. Test accuracy
+- first Test
+![first_test](https://user-images.githubusercontent.com/80032845/121222915-ef105380-c8c1-11eb-96ae-263df6ad785b.JPG)
+- second Test
+![second_test](https://user-images.githubusercontent.com/80032845/121222918-f0418080-c8c1-11eb-8e99-0b7d43f3ec41.JPG)
+- third Test
+![third_test](https://user-images.githubusercontent.com/80032845/121222922-f0418080-c8c1-11eb-8745-993c39abf1dc.JPG)
