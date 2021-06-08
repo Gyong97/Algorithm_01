@@ -10,3 +10,9 @@
 
 
 2. Training with Training loss
+- first Training
+![first_training](https://user-images.githubusercontent.com/80032845/121222671-b83a3d80-c8c1-11eb-8896-ac2a2f5f8923.JPG)
+- second Training
+![second_training](https://user-images.githubusercontent.com/80032845/121222676-b8d2d400-c8c1-11eb-8e8a-8888eb4df44f.JPG)
+- third Training
+![third_training](https://user-images.githubusercontent.com/80032845/121222679-b8d2d400-c8c1-11eb-93ce-5d65f0caf8da.JPG)
