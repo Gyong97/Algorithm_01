@@ -38,3 +38,12 @@
 - third predicted Right
 
 ![third_right](https://user-images.githubusercontent.com/80032845/121223200-3f87b100-c8c2-11eb-9d6e-d8f8db95c395.JPG)
+
+5. Images and corresponding probability that predicted Wrong
+- first predicted Wrong
+![first_wrong](https://user-images.githubusercontent.com/80032845/121223495-8e354b00-c8c2-11eb-87c2-15049e24ec37.JPG)
+- second predicted Wrong
+![second_wrong](https://user-images.githubusercontent.com/80032845/121223497-8ecde180-c8c2-11eb-97ec-b0a23dd12f77.JPG)
+- third predicted Wrong
+![third_wrong](https://user-images.githubusercontent.com/80032845/121223498-8f667800-c8c2-11eb-8269-c86129308af6.JPG)
+
